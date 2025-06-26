@@ -8,4 +8,10 @@ body{
 header{
     border: solid 2px hsla(335, 85%, 48%, 0.438);
     padding: 20px;
+    font-size: 32px; 
+    
+}
+
+h1{
+    text-align: center;
 }
