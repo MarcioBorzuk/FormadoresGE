@@ -7,4 +7,5 @@ body{
 
 header{
     border: solid 2px hsla(335, 85%, 48%, 0.438);
+    padding: 20px;
 }
