@@ -1,25 +1,39 @@
-body{
-    background-color: blueviolet;  /*cor do fundo*/
-    color: yellow;   /* cor da letra ou cor da letra*/
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+body {
+    color: white;
+    background: black;
     margin: 0px;
+    font-family: "Chakra Petch", sans-serif;
 }
 
-header{
-    border: solid 2px hsla(335, 85%, 48%, 0.438);
+header {
+    border-bottom: solid 2px rgb(42, 122, 228);
     padding: 20px;
-    font-size: 32px; 
-    
+    font-size: 32px;
+    color: rgb(42, 122, 228);
 }
 
-h1{
-    text-align: center;
-    font-size: 32px;
+.chamada {
+    background: rgb(184, 156, 213);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
 }
 
-p{
-    text-align: center;
-    font-size: 32px;
+.chamada-texto {
+    margin-right: 5%;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+p {
+    font-size: 20px;
+}
+
+img {
+    height: 200px;
 }
 
 .categoria-videos {
@@ -32,8 +46,3 @@ p{
     padding-left: 20px;
     padding-right: 20px;
 }
-
-img{
-    height: 200px;
-}
-
