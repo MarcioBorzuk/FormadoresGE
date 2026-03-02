@@ -46,3 +46,17 @@ img {
     padding-left: 20px;
     padding-right: 20px;
 }
+.caixa {
+            width: 300px;
+            height: 300px;
+            border: 2px solid #003366;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: #f0f8ff;
+        }
+
+        .caixa img {
+            max-width: 100%;
+            max-height: 100%;
+        }
