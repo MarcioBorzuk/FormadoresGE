@@ -52,7 +52,7 @@ p {
 /* ALTERADO: tamanho padronizado apenas nas fotos dos alunos */
 .card img {
     width: 100%;
-    height: 250px;
+    height: 290px;
     object-fit: cover; /* Mantém proporção sem distorcer */
     border-radius: 10px;
 }
